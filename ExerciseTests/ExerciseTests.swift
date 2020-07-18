@@ -1,10 +1,6 @@
 //
 //  ExerciseTests.swift
 //  ExerciseTests
-//
-//  Created by PritamSing Salunkhe on 04/07/20.
-//  Copyright © 2020 PritamSing Salunkhe. All rights reserved.
-//
 
 import XCTest
 @testable import Exercise
